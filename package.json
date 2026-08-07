@@ -1,0 +1,17 @@
+{
+  "name": "games.moomoo.audio-library-curator",
+  "displayName": "Audio Library Curator",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "Audition licensed audio outside a Unity project, keep project-specific review notes, and selectively ingest approved files with provenance.",
+  "keywords": [
+    "audio",
+    "editor",
+    "foley",
+    "music",
+    "workflow"
+  ],
+  "author": {
+    "name": "MooMoo Games"
+  }
+}
