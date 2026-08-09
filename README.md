@@ -12,8 +12,11 @@ provenance manifest recording exactly where each imported file came from.
 In the Unity Editor: **Window → Package Manager → + → Add package from git URL…**, then enter:
 
 ```
-<REPO-URL>
+https://github.com/alien-tardigrade/Audio-Library-Curator.git
 ```
+
+To pin a version instead of tracking the default branch, append the tag — for example
+`https://github.com/alien-tardigrade/Audio-Library-Curator.git#v0.1.0`.
 
 Requires Unity 6000.0 or newer. The package is editor-only — it has no runtime component and
 adds nothing to player builds.

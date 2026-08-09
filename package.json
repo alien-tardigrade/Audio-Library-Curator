@@ -3,7 +3,7 @@
   "displayName": "Audio Library Curator",
   "version": "0.1.0",
   "unity": "6000.0",
-  "description": "Audition licensed audio outside a Unity project, keep project-specific review notes, and selectively ingest approved files with provenance.",
+  "description": "Audition licensed audio outside a Unity project, keep project specific review notes, and selectively ingest approved files with provenance.",
   "keywords": [
     "audio",
     "editor",
@@ -11,6 +11,10 @@
     "music",
     "workflow"
   ],
+  "license": "MIT",
+  "documentationUrl": "https://github.com/alien-tardigrade/Audio-Library-Curator/blob/main/README.md",
+  "changelogUrl": "https://github.com/alien-tardigrade/Audio-Library-Curator/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/alien-tardigrade/Audio-Library-Curator/blob/main/LICENSE",
   "author": {
     "name": "MooMoo Games"
   }

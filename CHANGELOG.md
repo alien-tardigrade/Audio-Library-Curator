@@ -3,7 +3,7 @@
 All notable changes to this package are documented here.
 Format follows [Keep a Changelog](https://keepachangelog.com); versioning is semver.
 
-## [0.1.0]
+## [0.1.0] - 2026-08-08
 
 Initial public release.
 
